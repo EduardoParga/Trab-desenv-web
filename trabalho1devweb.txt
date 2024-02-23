@@ -1,0 +1,29 @@
+- Python
+referência: https://docs.python.org/3/
+Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).
+tópicos:  4, 11, 12, 13
+
+- Git
+referência: https://git-scm.com/doc
+Git é um sistema de controle de revisão distribuído, rápido, escalável e com um conjunto de comandos incomumente rico que oferece operações 
+de alto nível e acesso completo aos seus recursos.
+tópicos: 4
+
+-SqliteBrowser
+referência: https://sqlitebrowser.org
+SqliteBrowser é uma ferramenta visual de alta qualidade e de código aberto 
+para criar, projetar e editar arquivos de banco de dados compatíveis com SQLite.
+tópicos: 8
+
+- Visual Studio Code
+referência: https://code.visualstudio.com/docs
+Visual Studio Code é um editor de código-fonte leve, mas poderoso, executado em sua área de trabalho e disponível para Windows, macOS e Linux.
+tópicos: 11
+
+- Navegadores
+referência: https://dev.opera.com
+referência: https://firefox-source-docs.mozilla.org
+referência: https://developer.chrome.com/docs?hl=pt-br
+Um navegador web te leva para qualquer lugar na internet. Ele obtém informações de outras partes da web e as exibe em seu computador ou dispositivo móvel.
+As informações são transferidas usando o Protocolo de Transferência de Hipertexto, que define como textos, imagens e vídeos são transmitidos na web.
+tópicos: 1, 3
