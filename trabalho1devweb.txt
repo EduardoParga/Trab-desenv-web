@@ -1,3 +1,7 @@
+Nome da Disciplina: Desenvolvimento Web
+Período: 1o Período
+Ano Atual: 2024
+
 - Python
 referência: https://docs.python.org/3/
 Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML).
