@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> Proje </title>
+  <style type="text/css">
+     h1 { color:rgb(0, 0, 0); font-size: 24pt;}
+     h2 { color: rgba(251, 0, 0, 0.953); font-size: 22pt;}
+     p {color: rgb(67, 65, 65);}
+  </style>
+ </head>
+ 
+ <body style="background-color: rgb(255, 255, 255);">
+  <h1> Vasco da Gama </h1>
+  
+  <h2> Payet:</h2>
+                            
+  <p> Melhor camisa 10 do futebol brasileiro!!!!</p>
+
+  <h2> Vegetti:</h2>
+  <p> Melhor que o German Cano!! Pare de fofoca imediatamente!!</p>
+
+  <img src="vasco.jpg" alt="imgem grande">
+
+
